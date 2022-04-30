@@ -17,5 +17,7 @@ git checkout ${branch_name}
 git add -A # git add .
 
 # Commit
-
+message="Initializing"
 git -a -m "Initializing"
+
+# Pushing to remote 

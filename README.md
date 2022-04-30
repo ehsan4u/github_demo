@@ -19,3 +19,6 @@ git add -A # git add .
 # Commit
 message="Initializing"
 git -a -m "Initializing"
+
+# Pushing to remote 
+git push
